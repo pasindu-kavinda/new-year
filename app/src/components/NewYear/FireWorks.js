@@ -57,7 +57,7 @@ const initializeWireworks = () => {
                 "https://fireworks.js.org/sounds/explosion1.mp3",
                 "https://fireworks.js.org/sounds/explosion2.mp3",
             ],
-            volume: { min: 0, max: 50 },
+            volume: { min: 0, max: 40 },
         },
     });
 
