@@ -3,7 +3,7 @@ import NewYear from "./components/NewYear/NewYear.vue";
 </script>
 
 <template>
-  <NewYear msg="Happy New Year" />
+  <NewYear msg="Wishing you a very Happy & Blessed Sinhala & Tamil New Year" />
 </template>
 
 <style scoped></style>

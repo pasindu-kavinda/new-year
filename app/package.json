@@ -12,7 +12,8 @@
     "@fireworks-js/vue": "^2.10.7",
     "fireworks-js": "^2.10.7",
     "party-js": "^2.2.0",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
