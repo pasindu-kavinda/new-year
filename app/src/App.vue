@@ -1,5 +1,5 @@
 <script setup>
-import NewYear from "./components/NewYear.vue";
+import NewYear from "./components/NewYear/NewYear.vue";
 </script>
 
 <template>
